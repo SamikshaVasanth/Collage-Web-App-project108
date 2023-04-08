@@ -1,0 +1,16 @@
+.copy_right_footer
+{
+  position: fixed;
+  color: white;
+  bottom: 0;
+  width: 100%;
+  background-color: hotpink;
+  text-align: center;
+  line-height: 3;
+  box-shadow: 0 6px 8px 0 rgb(2, 2, 2 , 0.2) ;
+}
+
+img:hover{
+    border-radius: 140px;
+}
+
